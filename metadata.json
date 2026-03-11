@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SwingPro AI - Golf Swing Analyzer",
+  "description": "A high-performance golf swing analysis application featuring AI-powered insights, pro comparisons, and personalized drill plans.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
